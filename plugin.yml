@@ -1,0 +1,9 @@
+name: UWS-MCPlugin
+version: 1.0
+main: com.urbanwolfstudios.UWSMC.main
+desciption: a simple plugin.
+author: Adam Heiland
+website: www.urbanwolfstudios.com
+commands:
+  uws:
+    description: sends the plugin info
